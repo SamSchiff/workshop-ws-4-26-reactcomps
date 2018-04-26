@@ -21,6 +21,7 @@ We will implement:
 
 Pull from our directory. This contains a starterpack and some starting code.
 ```
+$ git init
 $ git remote add starter https://github.com/Flashing3/workshopstarter
 $ git pull starter master --allow-unrelated-histories
 ```
