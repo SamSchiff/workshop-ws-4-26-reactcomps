@@ -84,7 +84,7 @@ $ yarn start
 Now you should see this. There's a Sider but no menu items.
 ![](./img/Scaffold.png)
 
-Look at your index.js. In between the <Menu> </Menu> tags, add the following code to create menu items.
+Look at your index.js. In between the Menu tags, add the following code to create menu items.
 
 ```html
 <Menu.Item key="1">
