@@ -162,7 +162,7 @@ Now import this into your index.js!
 import Complete from './components/Complete';
 ```
 
-You want to render this search bar. Make a closing </Header> then add the search bar between the <Header> </Header>.
+You want to render this search bar. Make a closing Header tag, then add the search bar between the Header tags.
 
 Now you should see the autocomplete search bar!!!
 ![](./img/AutoComplete.png)
