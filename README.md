@@ -65,8 +65,8 @@ import 'antd/dist/antd.css';
 import './style.scss';
 ```
 
-#### Sidenote on importing css:
-(Normally if you were using your starterpack, you can do the following. This allows you to import components without having to manually import the corresponding stylesheet. It imports it for you.)
+#### Sidenote on importing css: don't actually do this.
+Normally if you were using your starterpack, you can do the following. This allows you to import components without having to manually import the corresponding stylesheet. It imports it for you.
 ```
 {
   "plugins": [
